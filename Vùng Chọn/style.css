@@ -1,0 +1,13 @@
+/*lựa chọn theo tên thẻ*/
+ h1 {
+     color: red;
+     background: aliceblue;
+ }
+/*lựa chọn theo class*/
+.vanban {
+    color: blue;
+}
+/*lựa chọn theo id*/
+#td1 {
+    color: yellow;
+}
