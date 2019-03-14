@@ -11,3 +11,11 @@
 #td1 {
     color: yellow;
 }
+/*Vùng chọn thứ cấp*/
+#menu ul li {
+    background: blueviolet;
+}
+/*Vùng chọn thứ cấp liền nhau*/
+ul>p {
+    color: #e23632;
+}
